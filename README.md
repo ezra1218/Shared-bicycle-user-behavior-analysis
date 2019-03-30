@@ -1,2 +1,6 @@
-# Shared-bicycle-user-behavior-analysis
+## 探索共享单车用户行为分析
+
 Udacity数据分析入门班项目二
+
+该项目可根据用户输入的月份、星期和地区对共享单车的描述性统计数据进行查询（利用pandas进行数据查询）
+
